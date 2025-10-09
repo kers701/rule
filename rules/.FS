@@ -19,3 +19,5 @@ DOMAIN-KEYWORD,xtracloud.net
 DOMAIN-KEYWORD,dy.kersfs.cn
 DOMAIN-KEYWORD,ipip.net
 DOMAIN-KEYWORD,bing
+DOMAIN-KEYWORD,samsungapps
+DOMAIN-KEYWORD,samsung
