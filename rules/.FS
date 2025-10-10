@@ -21,3 +21,6 @@ DOMAIN-KEYWORD,ipip.net
 DOMAIN-KEYWORD,bing
 DOMAIN-KEYWORD,samsungapps
 DOMAIN-KEYWORD,samsung
+DOMAIN-KEYWORD,wallhaven
+DOMAIN-KEYWORD,cloudflare
+
