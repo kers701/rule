@@ -24,3 +24,4 @@ DOMAIN-KEYWORD,samsung
 DOMAIN-KEYWORD,wallhaven
 DOMAIN-KEYWORD,cloudflare
 DOMAIN-KEYWORD,microsoft
+DOMAIN-KEYWORD,lsposed
