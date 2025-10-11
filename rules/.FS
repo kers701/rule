@@ -25,3 +25,4 @@ DOMAIN-KEYWORD,wallhaven
 DOMAIN-KEYWORD,cloudflare
 DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,lsposed
+DOMAIN-KEYWORD,img.pigpig.in
