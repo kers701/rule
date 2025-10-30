@@ -146,3 +146,5 @@ DOMAIN,local.adguard.org
 DOMAIN-SUFFIX,local
 PROCESS-PATH,com.samsung.android.app.spage
 PROCESS-PATH,com.sec.android.app.samsungapps
+DOMAIN-KEYWORD,samaung
+DOMAIN-KEYWORD,samsungapps
