@@ -35,7 +35,6 @@ DOMAIN-SUFFIX,att.com
 DOMAIN-SUFFIX,awsstatic.com
 DOMAIN-SUFFIX,azureedge.net
 DOMAIN-SUFFIX,azurewebsites.net
-DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bintray.com
 DOMAIN-SUFFIX,bit.com
 DOMAIN-SUFFIX,bit.ly
@@ -54,7 +53,6 @@ DOMAIN-SUFFIX,box.net
 DOMAIN-SUFFIX,cachefly.net
 DOMAIN-SUFFIX,chromium.org
 DOMAIN-SUFFIX,cl.ly
-DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,cloudmagic.com
 DOMAIN-SUFFIX,cmail19.com
@@ -204,7 +202,6 @@ DOMAIN-SUFFIX,shadowsocks.org
 DOMAIN-SUFFIX,sharethis.com
 DOMAIN-SUFFIX,shazam.com
 DOMAIN-SUFFIX,skype.com
-DOMAIN-SUFFIX,smartdns国外出口.com
 DOMAIN-SUFFIX,smartmailcloud.com
 DOMAIN-SUFFIX,sndcdn.com
 DOMAIN-SUFFIX,sony.com
@@ -283,4 +280,3 @@ DOMAIN-SUFFIX,ying.com
 DOMAIN-SUFFIX,yoyo.org
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,telegra.ph
-DOMAIN-SUFFIX,telegram.org
