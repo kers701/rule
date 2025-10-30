@@ -144,3 +144,5 @@ DOMAIN-SUFFIX,zoho.com
 DOMAIN,injections.adguard.org
 DOMAIN,local.adguard.org
 DOMAIN-SUFFIX,local
+PROCESS-PATH,com.samsung.android.app.spage
+PROCESS-PATH,com.sec.android.app.samsungapps
