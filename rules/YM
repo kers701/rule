@@ -144,3 +144,5 @@ DOMAIN-SUFFIX,zoho.com
 DOMAIN,injections.adguard.org
 DOMAIN,local.adguard.org
 DOMAIN-SUFFIX,local
+DOMAIN-KEYWORD,samaung
+DOMAIN-KEYWORD,samsungapps
