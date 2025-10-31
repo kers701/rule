@@ -1,0 +1,19 @@
+payload:
+  - DOMAIN,dns1.killove.cn
+  - DOMAIN,dns2.killove.cn
+  - DOMAIN,dns3.killove.cn
+  - DOMAIN,dns4.killove.cn
+  - DOMAIN,dns5.killove.cn
+  - DOMAIN,dns6.killove.cn
+  - DOMAIN-KEYWORD,123pan
+  - DOMAIN,github.com
+  - DOMAIN-KEYWORD,3gppnetwork.org
+  - DOMAIN-KEYWORD,xtracloud.net
+  - DOMAIN,smart.kersm.cn
+  - DOMAIN,love.killove.cn
+  - DOMAIN,c.kersm.cn
+  - DOMAIN,vps.killove.cn
+  - DOMAIN,c.killove.cn
+  - DOMAIN-KEYWORD,samaung
+  - DOMAIN-KEYWORD,samsungapps
+  - DOMAIN,dy.kersfs.cn
