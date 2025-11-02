@@ -72,4 +72,3 @@ PROCESS-NAME,com.samsung.android.arzone
 PROCESS-NAME,com.sec.android.app.samsungapps
 PROCESS-NAME,com.sec.spp.push
 PROCESS-NAME,com.samsung.android.smartsuggestions
-PROCESS-NAME,com.microsoft.emmx.canary
