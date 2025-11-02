@@ -1,0 +1,19 @@
+PROCESS-NAME,com.samsung.ims.smk
+PROCESS-NAME,com.sec.imslogger
+PROCESS-NAME,com.sec.imsservice
+PROCESS-NAME,com.samsung.advp.imssettings
+PROCESS-NAME,com.samsung.ims.smk UID
+PROCESS-NAME,com.sec.phone
+PROCESS-NAME,com.android.phone
+PROCESS-NAME,com.samsung.android.dialer
+PROCESS-NAME,com.miHoYo.hkrpg
+PROCESS-NAME,com.tencent.mm
+PROCESS-NAME,com.tencent.mobileqq
+PROCESS-NAME,com.samsung.android.messaging
+PROCESS-NAME,com.samsung.android.app.telephonyui
+PROCESS-NAME,com.samsung.android.incallui
+PROCESS-NAME,com.samsung.android.intellivoiceservice
+PROCESS-NAME,com.android.settings
+PROCESS-NAME,com.qti.qcc
+PROCESS-NAME,com.sec.epdg
+PROCESS-NAME,com.sec.imsservice
