@@ -16,7 +16,6 @@ PROCESS-NAME,com.samsung.android.intellivoiceservice
 PROCESS-NAME,com.android.settings
 PROCESS-NAME,com.qti.qcc
 PROCESS-NAME,com.sec.epdg
-PROCESS-NAME,com.sec.imsservice
 PROCESS-NAME,com.jgeek00.adguard_home_manager
 PROCESS-NAME,com.autonavi.minimap
 PROCESS-NAME,com.xunmeng.pinduoduo
@@ -30,12 +29,9 @@ PROCESS-NAME,com.samsung.android.goodlock
 top.hookvip.pro
 PROCESS-NAME,com.mi.health
 PROCESS-NAME,com.tencent.wework
-PROCESS-NAME,com.miHoYo.hkrpg
 PROCESS-NAME,com.xiaozhen.beauty.hnd
 PROCESS-NAME,com.houvven.guise
 io.legado.app.release
-PROCESS-NAME,com.tencent.mobileqq
-PROCESS-NAME,com.tencent.mm
 PROCESS-NAME,com.microsoft.office.officehub
 PROCESS-NAME,com.samsung.android.app.notes
 PROCESS-NAME,com.sinovatech.unicom.ui
@@ -76,3 +72,4 @@ PROCESS-NAME,com.samsung.android.arzone
 PROCESS-NAME,com.sec.android.app.samsungapps
 PROCESS-NAME,com.sec.spp.push
 PROCESS-NAME,com.samsung.android.smartsuggestions
+PROCESS-NAME,com.microsoft.emmx.canary
